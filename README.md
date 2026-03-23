@@ -1,4 +1,5 @@
 # 🪙 Coinbase × Openclaw
+<img width="1536" height="1024" alt="468fd2d8-2738-40ca-8b01-83ed975ea9c0 (1)" src="https://github.com/user-attachments/assets/6581543c-fcc7-49ff-ab63-ef369ee87be9" />
 
 <div align="center">
 
